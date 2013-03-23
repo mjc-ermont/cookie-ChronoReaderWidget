@@ -1,0 +1,3 @@
+[submodule "TimeCalc"]
+	path = TimeCalc
+	url = git@github.com:mjc-ermont/TimeCalcs.git

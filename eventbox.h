@@ -2,7 +2,7 @@
 #define EVENTBOX_H
 
 #include <QtGui>
-#include "TimeCalcs/timecalcs.h"
+#include "TimeCalc/timecalcs.h"
 
 namespace Ui {
 class EventBox;

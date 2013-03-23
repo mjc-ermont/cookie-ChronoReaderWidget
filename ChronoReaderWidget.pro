@@ -13,11 +13,11 @@ TEMPLATE = app
 SOURCES += main.cpp\
         chronoreaderwidget.cpp \
     eventbox.cpp \
-    TimeCalcs/timecalcs.cpp
+    TimeCalc/timecalcs.cpp
 
 HEADERS  += chronoreaderwidget.h \
     eventbox.h \
-    TimeCalcs/timecalcs.h
+    TimeCalc/timecalcs.h
 
 FORMS    += chronoreaderwidget.ui \
     eventbox.ui

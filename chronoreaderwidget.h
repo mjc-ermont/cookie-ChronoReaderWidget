@@ -6,7 +6,7 @@
 #include <qjson/serializer.h>
 
 #include "eventbox.h"
-#include "TimeCalcs/timecalcs.h"
+#include "TimeCalc/timecalcs.h"
 
 namespace Ui {
 class ChronoReaderWidget;
